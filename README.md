@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Manav Jairam
-mjairam@ucsd.edu
+Manav Jairam and Anirudh Indraganti
