@@ -1,0 +1,30 @@
+﻿commit b00ef0e3a310973e3d4b1edeebe78f3e23787edd
+Merge: 3ee54c0 820e011
+Author: Manav Jairam <67622550+Manav1712@users.noreply.github.com>
+Date:   Sun Nov 10 19:30:19 2024 -0800
+
+    merge fixed
+
+commit 3ee54c06c70209182a665fe2620a79c12ff8553b
+Author: Manav Jairam <67622550+Manav1712@users.noreply.github.com>
+Date:   Sun Nov 10 19:27:06 2024 -0800
+
+    merge conflict
+
+commit 820e011119a93557585b61bda8f23d50933f0a2d
+Author: Annu Indraganti <aindraga@ucsd.edu>
+Date:   Sun Nov 10 22:24:44 2024 -0500
+
+    Step 3 Changes
+
+commit 42e317c61d5723f41c68cada89422d8b54318554
+Author: Manav Jairam <67622550+Manav1712@users.noreply.github.com>
+Date:   Sun Nov 10 19:20:32 2024 -0800
+
+    initial commit
+
+commit cf9686193ae795c8205debb85da0059a96353d8c
+Author: Manav Jairam <67622550+Manav1712@users.noreply.github.com>
+Date:   Sun Nov 10 19:17:58 2024 -0800
+
+    Initial commit
